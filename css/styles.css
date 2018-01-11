@@ -1,9 +1,9 @@
-
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
 
 body{
 	background-image: url("../images/5.jpg");
-	font-family: cursive;
 	margin: 0px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .poster, .poster1{
 	display: inline-block;
@@ -25,7 +25,7 @@ body{
 }
 #nav a, #nav a:visited, #nav a:active, #nav a:hover, #nav2 a, #nav2 a:visited, #nav2 a:active, #nav2 a:hover{
 	text-decoration: none;
-	color: #00b33c;
+	color: white;
 }
 .titl{
 	font-size: 2em;
